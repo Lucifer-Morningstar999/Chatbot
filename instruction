@@ -5,3 +5,7 @@
   3)install chatterbot
   4)install chatterbot-corpus
   5)python -m spacy download ru_core_news_lg
+  6) install pyAudio
+    Для тех у кого выдает ошибку при скачивание pyAudio .Открыть сайт https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio и скачать версию подходящию для твоего python,открыть cmd перейти в деректорию где распалагается файл и вставить pip install и полное название скаченового файла 
+  7) install speech_recognition
+  8) install pyttsx3
